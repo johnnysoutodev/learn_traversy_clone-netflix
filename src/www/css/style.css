@@ -130,6 +130,23 @@ img{
 
 /* Text Styles */
 
+.text-xl{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #fff;
+}
+.text-lg{
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #fff;
+}
+.text-center{
+    text-align: center;
+}
+.text-dark{
+    color: #999;
+}
+
 /* Buttons */
 .btn{
     display: inline-block;
