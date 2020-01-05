@@ -90,6 +90,15 @@ img{
     line-height: 1.25;
     margin: 0 0 2rem;
 }
+
+/* Tab Content */
+
+.tab-content{
+    padding: 3rem 0;
+    background: #000;
+    color: #fff;
+}
+
 #tab-1-content .tab-1-content-inner{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -142,12 +151,10 @@ img{
 .text-xl{
     font-size: 2rem;
     margin-bottom: 1rem;
-    color: #fff;
 }
 .text-lg{
     font-size: 1.8rem;
     margin-bottom: 1rem;
-    color: #fff;
 }
 .text-center{
     text-align: center;
