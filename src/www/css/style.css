@@ -90,6 +90,13 @@ img{
     line-height: 1.25;
     margin: 0 0 2rem;
 }
+#tab-1-content .tab-1-content-inner{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
 
 /* Tabs */
 
@@ -120,6 +127,8 @@ img{
 .tab-border{
     border-bottom: var(--primary-color) 3px solid;
 }
+
+/* Text Styles */
 
 /* Buttons */
 .btn{
