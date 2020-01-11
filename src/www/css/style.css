@@ -121,6 +121,13 @@ img{
     align-items: center;
     text-align: center;
 }
+.table{
+    width: 100%;
+    margin-top: 2rem;
+}
+.table thead th{
+    text-transform: uppercase;
+}
 
 /* Container */
 
